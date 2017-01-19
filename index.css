@@ -892,7 +892,8 @@ top: 50%;
   @media only screen and (min-width: 600px) {
     /* line 9, e:/igprad-lab/igprad.github.io/sass/blocks/_content.scss */
     .content {
-      margin-left: 250px; } }
+      margin-left: 250px; 
+      margin-right: 250px;} }
   /* line 19, e:/igprad-lab/igprad.github.io/sass/blocks/_content.scss */
   .content__wrapper {
     padding: 10px 0; }
