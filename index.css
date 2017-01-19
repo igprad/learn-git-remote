@@ -7,7 +7,9 @@
 .account__menu-wrapper, .nav__wrapper {
   margin: 0;
   padding: 0;
-  list-style: none; }
+  list-style: none;
+  box-shadow: 1px;
+   }
 
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**
