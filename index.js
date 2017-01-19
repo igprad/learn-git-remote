@@ -49,6 +49,8 @@ function initAccountPopover(){
         $(menu).stop(true, true).delay(1000).slideUp();
     });
 
+    var booelan = false;
+
     var menuEl = $('.account__menu');
     menuEl.hover(function(){
         $(this).stop(true, true);
