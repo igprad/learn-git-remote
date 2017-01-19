@@ -2,6 +2,8 @@
 
 function initNavEvent(){
 	var itemchild = $('.nav__item--child');
+    var projek2 = false;
+    
 	itemchild.on('click', function(){
         var target = $(this);
 
